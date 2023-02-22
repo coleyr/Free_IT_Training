@@ -1,4 +1,3 @@
-# Free IT Training
 The purpose of this repository is organize Free IT Training resources by certification and programming language
 
 ## About the Repo
